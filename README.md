@@ -21,5 +21,7 @@ Example:
 - Could you resolve this captcha (iamge)() ? 
 - Is this guy look friendly ? 
 - How do you field about this guy (canbetrusted, could not be wise, don't trust him ?)
-
+- Could you loggin on your facebooka count (done, not now, stop linked task)?
+- Could you give web page with information on this subject that you consider good enough ?
+- ...
  

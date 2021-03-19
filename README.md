@@ -25,3 +25,36 @@ Example:
 - Could you give web page with information on this subject that you consider good enough ?
 - ...
  
+_________________
+PS: The question here is not moraly or philosophicaly.
+The idea is to check if it is not a good thing to do to allow the machine to request respond independtly of:
+- is it boring ?
+- is it moral ?
+- does a human want to do it?
+- does it is ok to be treated like a script running.
+
+For example, You have AI that know how to cook perfectly any meat but to do so. It needs visual information that he don't have because it is an app without webcam:
+- he need to be able to ask feedback:
+  - is the color of X is brown ?
+  - is the pasta are hard or soft when you taste ?
+  - is the texture of the creme is soft enough ?
+  - do you see that the oil is mixed enough with the suger ?
+  - did you fail to cook this (to be able to adjust the rest of the cook) ?
+  - did you forget this ingredient ?
+Meaning that we need more AI asking request and questions to human if one day we want to be able to cook without reading a receiped each time we want to do something new. 
+Like GPS. You don't want to learn all the region of france to be able to go to a place. You just accept that an AI give you order to lead you to where you need. That boring but at least you are at your destination in time and without beeing lost.
+
+
+_________________
+
+The captcha example is a good one on the useful vs evil.
+You could have a website where hundred of humans, just answer to captcha for allowing ai and bot to go where they can't go.
+
+Is it good or evil ?   
+I don't know. And we don't care. But if you want AI to go there you have to pass the captcha.  
+
+
+
+
+
+

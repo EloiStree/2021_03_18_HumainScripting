@@ -52,6 +52,11 @@ You could have a website where hundred of humans, just answer to captcha for all
 
 Is it good or evil ?   
 I don't know. And we don't care. But if you want AI to go there you have to pass the captcha.  
+So you need an ai+human collaboration.
+
+
+If an ai want to repair a IoT house, he need human to toggle switch and cable to be able to detect the bug. 
+Human can't do it without AI and AI can't do it without Human... SO you need direct order collaboration.
 
 
 

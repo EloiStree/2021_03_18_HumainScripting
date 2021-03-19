@@ -68,6 +68,8 @@ I created interface in C# of plenty of code that need to exist.
 I now I just roboticaly creating the code that is easy to code but need to be coded.  
 
 
-The fun part is that at the end of coding those hundred of part is that at the end, it serves a great project result of those stupid small jobs.
+The fun part is that at the end of coding those hundred of part is that at the end, it serves a great project result of those stupid small jobs.  
+  
+I am human scripting my future self.   
 
 
